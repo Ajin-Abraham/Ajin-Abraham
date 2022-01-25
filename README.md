@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   </a>
 </p>  
 
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
   <a href="https://github.com/Ashutosh00710/Ashutosh00710">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajin-Abraham&theme=tokyonight&layout=compact" height="205">
